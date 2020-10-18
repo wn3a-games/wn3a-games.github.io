@@ -1,0 +1,52 @@
+body {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+}
+
+#footer {
+	display: block;
+	border-top: 1px solid black;
+	text-align: center;
+	width: 100%;
+	margin-top: 100px;
+}
+
+p, a, li {
+	font-family: 'Segoe UI', sans-serif;
+}
+
+a {
+	transition: color linear 0.5s;
+	color: dodgerblue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: purple;
+}
+
+a:hover {
+	color: orange;
+	text-decoration: underline;
+}
+
+a:active {
+	color: green;
+	text-decoration: underline;
+}
+
+h1 {
+	color: Gray;
+	text-align: center;
+	font-family: Garamound;
+}
+
+h2 {
+	font-family: Garamound;
+}
+
+h3 {
+	font-family: 'Segoe UI', sans-serif;
+}
