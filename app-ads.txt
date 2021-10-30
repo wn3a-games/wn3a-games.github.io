@@ -49,6 +49,8 @@ rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+exchange.admazing.co, AM3, RESELLER
+meitu.com, 282, RESELLER
 google.com, pub-4996961509709512, RESELLER
 telaria.com, rwd19-2032417, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2032417, RESELLER, 1a4e959a1b50034a
